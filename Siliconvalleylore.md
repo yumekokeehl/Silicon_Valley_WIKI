@@ -1,4 +1,4 @@
-# Silicon Valley lore
+# Silicon Valley Lore
 
 PROTAGONISTA: TIM
 Tim si sveglia in una mattina come le altre e la moglie gli chiede di andare a comprare le patate. Lui, salendo in macchina, prova a togliere il freno a mano, ma questo gli rimane in mano. Da lì inizia il peggio per Tim.
