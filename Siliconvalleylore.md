@@ -13,4 +13,9 @@ Il meccanico risponde:
 All’improvviso si trasforma in un mostro gigante e inizia ad attaccare Tim. Preso dalla paura, Tim scappa e si rifugia dentro la macchina.
 Lì trova il suo primo power-up: il freno a mano si allunga e diventa più potente.
 Tim prende coraggio e decide di affrontare il mostro. Nota che le gambe sono il suo punto debole, così inizia a colpirle con il freno a mano. Dopo una lunga battaglia riesce a sconfiggere il capo meccanico da cui potrai prendere la sua officina e iniziare a personalizzare le tue macchine non funzionanti ma anche potenziare il tuo freno a mano con accessori come: specchietti, volante ma anche imparare ad usare le magie con la benzina. 
-dopo aver provato centinaia di macchine, a meta' gioco torni a casa da tua moglie(Grazziella) e gli chiedi scusa per non aver preso le patate e gli racconti che in citta non funziona nessuna macchina, a quel punto lei ti risponde:"sai perche??" te:"no, perche'? lei:"l"ho voluto io?" te:"ma come hai fatto?"
+dopo aver provato centinaia di macchine, a meta' gioco torni a casa da tua moglie(Grazziella) e gli chiedi scusa per non aver preso le patate e gli racconti che in citta non funziona nessuna macchina, a quel punto lei ti risponde:"sai perche??" te:"no, perche'? lei:"l"ho voluto io?" te:"ma come hai fatto a rompere tutte le macchine della citta'?" lei:"perche' adesso collaboro con uno scienziato pazzo" lui:"cosa?!?" e inizia la boss fight
+
+
+
+PARTE INVENTATA DA ME (Fine)
+dopo aver trovato la macchina funzionante Tim va al supermercato compra le patate le lascia sul tavolo, si mette sul tavolo, accende la tv e partono i titoli di coda
