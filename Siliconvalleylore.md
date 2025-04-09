@@ -17,5 +17,5 @@ dopo aver provato centinaia di macchine, a meta' gioco torni a casa da tua mogli
 
 
 
-PARTE INVENTATA DA ME (Fine)
+PARTE INVENTATA DA ME (Finale)
 dopo aver trovato la macchina funzionante Tim va al supermercato compra le patate le lascia sul tavolo, si mette sul tavolo, accende la tv e partono i titoli di coda
