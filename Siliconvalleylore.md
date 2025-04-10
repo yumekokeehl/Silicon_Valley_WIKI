@@ -17,7 +17,7 @@ dopo aver provato centinaia di macchine, a meta' gioco torni a casa da tua mogli
 Graziella lo trova, lo scaraventa fuori dalla macchina e dice:
 «Ora sei spacciato. Unisciti a me e ti risparmierò.»
 Ma Tim se ne frega e inizia a colpire la moglie. Stavolta vede che riesce a farle più danno. Dopo una lunga battaglia, Tim riesce a vincere e sconfigge quella che ormai è la sua ex moglie.
-Così si incammina verso lunics macchina funzionante del pianeta  e riprende la sua ricerca.
+Così si incammina verso l'unica macchina funzionante del pianeta  e riprende la sua ricerca.
 
 PARTE INVENTATA DA ME (Finale)
 dopo aver trovato la macchina funzionante Tim va al supermercato compra le patate le lascia sul tavolo, si mette sul tavolo, accende la tv e partono i titoli di coda
