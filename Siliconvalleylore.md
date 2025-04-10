@@ -13,9 +13,11 @@ Il meccanico risponde:
 All’improvviso si trasforma in un mostro gigante e inizia ad attaccare Tim. Preso dalla paura, Tim scappa e si rifugia dentro la macchina.
 Lì trova il suo primo power-up: il freno a mano si allunga e diventa più potente.
 Tim prende coraggio e decide di affrontare il mostro. Nota che le gambe sono il suo punto debole, così inizia a colpirle con il freno a mano. Dopo una lunga battaglia riesce a sconfiggere il capo meccanico da cui potrai prendere la sua officina e iniziare a personalizzare le tue macchine non funzionanti ma anche potenziare il tuo freno a mano con accessori come: specchietti, volante ma anche imparare ad usare le magie con la benzina. 
-dopo aver provato centinaia di macchine, a meta' gioco torni a casa da tua moglie(Grazziella) e gli chiedi scusa per non aver preso le patate e gli racconti che in citta non funziona nessuna macchina, a quel punto lei ti risponde:"sai perche??" te:"no, perche'? lei:"l"ho voluto io?" te:"ma come hai fatto a rompere tutte le macchine della citta'?" lei:"perche' adesso collaboro con uno scienziato pazzo" lui:"cosa?!?" e inizia la boss fight
-
-
+dopo aver provato centinaia di macchine, a meta' gioco torni a casa da tua moglie(Grazziella) e gli chiedi scusa per non aver preso le patate e gli racconti che in citta non funziona nessuna macchina, a quel punto lei ti risponde:"sai perche??" te:"no, perche'? lei:"l"ho voluto io?" te:"ma come hai fatto a rompere tutte le macchine della citta'?" lei:"perche' adesso collaboro con uno scienziato pazzo" lui:"cosa?!?" e inizia la boss figh (parte di disomma) Tim inizia a colpire la moglie con il suo fidato freno a mano, ma si accorge che non le fa così tanto danno. Impaurito, Tim inizia a scappare e si nasconde dentro una macchina. Lì trova un altro power-up: il freno a mano si allunga ancora di più e la sua forza aumenta.
+Graziella lo trova, lo scaraventa fuori dalla macchina e dice:
+«Ora sei spacciato. Unisciti a me e ti risparmierò.»
+Ma Tim se ne frega e inizia a colpire la moglie. Stavolta vede che riesce a farle più danno. Dopo una lunga battaglia, Tim riesce a vincere e sconfigge quella che ormai è la sua ex moglie.
+Così si incammina verso lunics macchina funzionante del pianeta  e riprende la sua ricerca.
 
 PARTE INVENTATA DA ME (Finale)
 dopo aver trovato la macchina funzionante Tim va al supermercato compra le patate le lascia sul tavolo, si mette sul tavolo, accende la tv e partono i titoli di coda
