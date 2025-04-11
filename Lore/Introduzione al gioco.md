@@ -1,4 +1,4 @@
-Il gioco inizia con il protagonista, [Tim](Tim.md) che esce dalla porta della propria casa, cacciato dalla [ moglie NPC/Graziella.md](Graziella%20) che prima di sbattere la porta urla "E NON TORNARE FIN QUANDO NON AVRAI PORTATO DELLE PATATE" (che precedentemente si è dimenticato di comprare prima di tornare a casa).
+Il gioco inizia con il protagonista, [Tim](Tim.md) che esce dalla porta della propria casa, cacciato dalla [moglie Graziella](NPC/Graziella.md) che prima di sbattere la porta urla "E NON TORNARE FIN QUANDO NON AVRAI PORTATO DELLE PATATE" (che precedentemente si è dimenticato di comprare prima di tornare a casa).
 
 Come procede nota folle di persone correre e dileguarsi, ma dopo una giornata così stancante a lavoro non si pone neanche troppe domande e raggiunge la sua auto.
 
