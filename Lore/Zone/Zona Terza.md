@@ -1,3 +1,3 @@
-BOSS: [Terzo Boss](Terzo%20Boss.md)
+BOSS: [Terzo Boss](../Boss/Terzo%20Boss.md)
 
 `ancora da definire`

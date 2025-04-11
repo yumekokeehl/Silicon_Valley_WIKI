@@ -6,7 +6,7 @@ ZONA: TUTTE
 - Misterioso
 - Ha un furgone dove vende kebab
 - Permette di salvare
-- Permette di fare upgrade alla salute ([Potenziamenti](Potenziamenti.md))
+- Permette di fare upgrade alla salute ([Potenziamenti](../../Gameplay/Potenziamenti.md))
 
 In ogni zona che visiterai sarà presente lui con il suo furgone a vendere kebab
 Tu potrai anche chiedergli come fa a spostarsi se tutte le automobili sono bloccate

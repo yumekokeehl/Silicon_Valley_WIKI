@@ -1,4 +1,4 @@
-ZONA: [Zona Terza](Zona%20Terza.md)
+ZONA: [Zona Terza](../Zone/Zona%20Terza.md)
 
 `ancora da definire`
 

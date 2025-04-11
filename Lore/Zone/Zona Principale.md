@@ -1,3 +1,3 @@
-BOSS: [Scienziato](Scienziato.md), [Graziella di Silicio](Graziella%20di%20Silicio.md)
+BOSS: [Scienziato](../Boss/Scienziato.md), [Graziella di Silicio](../Boss/Graziella%20di%20Silicio.md)
 
 ...
