@@ -12,7 +12,7 @@
 
 - ACCENSIONE VIA CAVI
 - DASH
-- CROUCH
+- CROUCH [Meccanico](../Lore/Boss/Meccanico.md)
 - DOPPIO SALTO
 
 ## Pacifist
