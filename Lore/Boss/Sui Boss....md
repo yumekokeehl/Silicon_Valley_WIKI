@@ -1,9 +1,10 @@
-# Sui Boss
+# Sui Boss
+
 
 I boss dovranno essere sconfitti in quest'ordine:
 1. [Meccanico](Meccanico.md)
 2. [Rottamatore](Rottamatore.md) o [Terzo Boss](Terzo%20Boss.md)
-3. [Rottamatore](Rottamatore.md) o [Terzo Boss](Terzo%20Boss.md)
+3. [Fattore](Fattore.md) 
 4. [Graziella di Silicio](Graziella%20di%20Silicio.md)
 5. [Scienziato](Scienziato.md)
 
