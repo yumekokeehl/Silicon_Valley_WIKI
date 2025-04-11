@@ -12,7 +12,7 @@ durante il gioco, incontrerai altri npc che ti diranno di non rispondere mai 'Si
 
 idea
 
-se premi di no ti rtrolla esettando il gioco per pochi secondi per poi ritornare alla normalitá a causa di un malfunzionamento del suo telecomando(?) di reset,
+se premi di no ti trolla resettando il gioco per pochi secondi per poi ritornare alla normalitá a causa di un malfunzionamento del suo telecomando(?) di reset,
 e puoi decidere di attaccarlo o andare avanti mentre tenterá in eterno di sistemare il telecomando.
 
 
