@@ -5,7 +5,7 @@
 FPS ACTION PLATFORMER
 
 Sviluppato dalla __Formsoftware__ / __Foamsoftwave__ 
-Porting della __Fried Fish__
+Porting della __Fried Fish ©.__
 
 > Testo ricavato dalla riunione del 11/04/2025, parafrasato da `xbvuno`, disponibile [[raw 10.04.2025|qui]].
 
