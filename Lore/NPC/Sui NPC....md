@@ -1,4 +1,5 @@
-# Sui NPC
+# Sui NPC
+
 
 ## NPC Funzionali
 
@@ -11,7 +12,7 @@
 
 ## NPC secondari
 
-- [Firesetto](Firesetto.md)
+- [Tiresetto](Tiresetto.md)
 
 
 Inoltre, è possibile trovare [Persone Ostili](Persone%20Ostili.md)
