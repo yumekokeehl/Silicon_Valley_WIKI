@@ -11,7 +11,7 @@
 ## Abilità sbloccabili
 
 - ACCENSIONE VIA CAVI [Meccanico](../Lore/Boss/Meccanico.md)
-- DASH
+- DASH [Rottamatore](../Lore/Boss/Rottamatore.md)
 - CROUCH [Meccanico](../Lore/Boss/Meccanico.md)
 - DOPPIO SALTO
 
