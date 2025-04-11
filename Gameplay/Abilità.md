@@ -1,4 +1,5 @@
-# Abilità
+# Abilità
+
 
 ## Abilità di base
 
@@ -13,3 +14,6 @@
 - DASH
 - CROUCH
 - DOPPIO SALTO
+
+## Pacifist
+- Se si fa un boss in modalità Pacifist ci sarà comunque un mini tutorial che ti spiega comunque l'abilità da imparare (per esempio un quick time event)
