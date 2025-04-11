@@ -1,3 +1,5 @@
+# Sui Boss
+
 I boss dovranno essere sconfitti in quest'ordine:
 1. [Meccanico](Meccanico.md)
 2. [Rottamatore](Rottamatore.md) o [Terzo Boss](Terzo%20Boss.md)

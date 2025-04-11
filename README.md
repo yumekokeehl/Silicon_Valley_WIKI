@@ -1,23 +1,20 @@
 
 # Silicon Valley
----
 
 FPS ACTION PLATFORMER
-
 
 Sviluppato dalla __Formsoftware__ / __Foamsoftwave__ 
 Porting della __Fried Fish ©.__
 
 > Testo ricavato dalla riunione del 11/04/2025, parafrasato da `xbvuno`, disponibile [qui](Raws/raw%2010.04.2025.md).
 
-# Lore
----
+## Lore
+
 - [Introduzione al gioco](Lore/Introduzione%20al%20gioco.md)
 - [Boss](Lore/Boss/Sui%20Boss....md)
 - [NPC](Lore/NPC/Sui%20NPC....md)
 
-# Principi di Gameplay
----
+## Principi di Gameplay
 
 - [Struttura Mappa](Gameplay/Struttura%20Mappa.md)
 - [Abilità](Gameplay/Abilità.md)

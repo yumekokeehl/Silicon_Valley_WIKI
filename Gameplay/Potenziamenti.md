@@ -1,3 +1,5 @@
+# Potenziamenti
+
 Il giocatore può trovare loot / materiale / pezzi di powerup nelle macchine non funzionanti
 o sconfiggendo delle [Persone Ostili](../Lore/NPC/Persone%20Ostili.md)
 ## Potenziamenti Sbloccabili

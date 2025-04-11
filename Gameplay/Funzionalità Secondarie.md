@@ -1,3 +1,5 @@
+# Funzionalità Secondarie
+
 Tutto ciò che potrebbe essere sviluppato, ma nulla di urgente per il gameplay
 
 - Puoi fare un percorso buono o cattivo

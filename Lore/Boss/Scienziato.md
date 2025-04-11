@@ -1,3 +1,5 @@
+# Scienziato
+
 > *"Non hai notato il cielo, vero? da quant'è che non lo vedevi così azzurro, coglione?"*
 
 ZONA: [Zona Principale](../Zone/Zona%20Principale.md), [Bordercolli INC](../Zone/Bordercolli%20INC.md)

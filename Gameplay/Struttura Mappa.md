@@ -1,3 +1,5 @@
+# Struttura Mappa
+
 Il gioco si basa su una [|mappa principale](../Lore/Zone/Zona%20Principale.md%20) e 3 diverse zone dedicate ai primi 3 boss:
 
 - [Zona Industriale](../Lore/Zone/Zona%20Industriale.md) ([Meccanico](../Lore/Boss/Meccanico.md))

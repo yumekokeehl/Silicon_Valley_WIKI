@@ -1,3 +1,5 @@
+# Funzionalità Fake
+
 Aggiunte meme che non hanno un vero scopo
 
 - Modalità Battle Royale online
