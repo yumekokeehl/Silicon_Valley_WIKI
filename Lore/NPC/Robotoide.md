@@ -1,6 +1,6 @@
 > *Stare in mezzo alla gente mi usurpa.*
 
-ZONA: [[Zona Rottamazione]]
+ZONA: [Zona Rottamazione](Zona%20Rottamazione.md)
 
-- Creato da [[Scienziato]]
-- Permette di effettuare upgrade dell'arma principale ([[Potenziamenti]])
+- Creato da [Scienziato](Scienziato.md)
+- Permette di effettuare upgrade dell'arma principale ([Potenziamenti](Potenziamenti.md))

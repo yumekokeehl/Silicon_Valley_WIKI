@@ -1,3 +1,3 @@
-BOSS: [[Meccanico]]
+BOSS: [Meccanico](Meccanico.md)
 
 ...

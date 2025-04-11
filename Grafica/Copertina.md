@@ -1,1 +1,1 @@
-In copertina c’é [[Tim]] con un freno a mano su una macchina distrutta mentre da’ le spalle e la scritta “if you want your car you have to search it”
+In copertina c’é [Tim](Tim.md) con un freno a mano su una macchina distrutta mentre da’ le spalle e la scritta “if you want your car you have to search it”

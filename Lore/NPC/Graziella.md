@@ -1,5 +1,5 @@
-ZONA: [[Zona Principale]]
+ZONA: [Zona Principale](Zona%20Principale.md)
 
-- Moglie di [[Tim]]
-- Scrive messaggi al telefono a [[Tim]] dopo ogni boss fight
-- Diventa il [[Graziella di Silicio|quarto boss]]
+- Moglie di [Tim](Tim.md)
+- Scrive messaggi al telefono a [Tim](Tim.md) dopo ogni boss fight
+- Diventa il [quarto boss](Graziella%20di%20Silicio.md)

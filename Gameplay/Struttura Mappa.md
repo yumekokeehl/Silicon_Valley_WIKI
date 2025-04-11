@@ -1,9 +1,9 @@
-Il gioco si basa su una [[Zona Principale ||mappa principale]] e 3 diverse zone dedicate ai primi 3 boss:
+Il gioco si basa su una [|mappa principale](Zona%20Principale%20) e 3 diverse zone dedicate ai primi 3 boss:
 
-- [[Zona Industriale]] ([[Meccanico]])
-- [[Zona Rottamazione]] ([[Rottamatore]])
-- [[Zona Terza]] ([[Terzo Boss]])
+- [Zona Industriale](Zona%20Industriale.md) ([Meccanico](Meccanico.md))
+- [Zona Rottamazione](Zona%20Rottamazione.md) ([Rottamatore](Rottamatore.md))
+- [Zona Terza](Zona%20Terza.md) ([Terzo Boss](Terzo%20Boss.md))
 
-Nella [[Zona Principale ||mappa principale]] è presente il palazzo del boss finale, Lo [[Scienziato]]
-accessibile solo dopo aver sbloccato i diversi [[Potenziamenti|potenziamenti]] sconfiggendo gli altri boss
+Nella [|mappa principale](Zona%20Principale%20) è presente il palazzo del boss finale, Lo [Scienziato](Scienziato.md)
+accessibile solo dopo aver sbloccato i diversi [potenziamenti](Potenziamenti.md) sconfiggendo gli altri boss
 

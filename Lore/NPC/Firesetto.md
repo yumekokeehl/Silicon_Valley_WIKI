@@ -1,4 +1,4 @@
-ZONA: [[Zona Principale]], [[Bordercolli INC]]
+ZONA: [Zona Principale](Zona%20Principale.md), [Bordercolli INC](Bordercolli%20INC.md)
 
 Firesetto chiederà al giocatore se vuole resettare la partita, cosa che succede davvero se gli viene risposto 'Si'
 

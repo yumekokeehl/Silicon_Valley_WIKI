@@ -1,4 +1,4 @@
-ZONA: [[Zona Terza]]
+ZONA: [Zona Terza](Zona%20Terza.md)
 
 `ancora da definire`
 

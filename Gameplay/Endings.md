@@ -1,2 +1,2 @@
-- PRECOCE: Dopo aver sconfitto [[Meccanico|il primo boss]]  nella [[Zona Industriale]] è possibile, seconda una percentuale, avviare una macchina correttamente e finire il gioco.
-- PACIFIST: Rispondendo correttamente ai dialoghi dei vari boss è possibile fare un route senza combatterne neanche uno, il finale non è ottenibile in caso si uccide anche [[Persone Ostili|una persona]]
+- PRECOCE: Dopo aver sconfitto [il primo boss](Meccanico.md)  nella [Zona Industriale](Zona%20Industriale.md) è possibile, seconda una percentuale, avviare una macchina correttamente e finire il gioco.
+- PACIFIST: Rispondendo correttamente ai dialoghi dei vari boss è possibile fare un route senza combatterne neanche uno, il finale non è ottenibile in caso si uccide anche [una persona](Persone%20Ostili.md)
