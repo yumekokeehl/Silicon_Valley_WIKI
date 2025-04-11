@@ -10,7 +10,7 @@
 
 ## Abilità sbloccabili
 
-- ACCENSIONE VIA CAVI
+- ACCENSIONE VIA CAVI [Meccanico](../Lore/Boss/Meccanico.md)
 - DASH
 - CROUCH [Meccanico](../Lore/Boss/Meccanico.md)
 - DOPPIO SALTO
