@@ -18,10 +18,10 @@ Se devi fare una funzione che richiede la preesistenza di un'altra funzione che 
 Mai e poi mai committare sul branch main in quanto è dove c'è la parte di codice funzionante. Ogni milestone si fa il merge su Dev e poi, dopo aver testato a sufficienza, si effettua il merge con il main.
 
 # Regola 3 - Seguite lo schema dello Scene tree
-Seguite lo scene tree descritto [qui](DevGuide/Scene%20Tree.md).
+Seguite lo scene tree descritto [qui](Scene%20Tree.md).
 
 # Regola 4 - Seguite lo schema del File System
-[Qui](DevGuide/File%20System.md) potete trovare lo schema del File System
+[Qui](File%20System.md) potete trovare lo schema del File System
 
 # Regola 5 - 🐍🏡snake_case🐍🏡
 Usate lo snake case (🐍🏡) per scrivere i nomi delle variabili.
