@@ -3,7 +3,7 @@
 		- [Debug Menu](Scene%20Tree.md#debug-menu)
 		- [Pause Menu](Scene%20Tree.md#pause-menu)
 		- [UI](Scene%20Tree.md#ui)(Crossair etc...)
-	- [Loaded Level](Scene%20Tree.md#load-level)
+	- [Loaded Level](Scene%20Tree.md#loaded-level)
 		- [Level](Scene%20Tree.md#level)
 		- [Player](Scene%20Tree.md#player)
 
