@@ -25,7 +25,8 @@ Porting della __Fried Fish ©.__
 - [Funzionalità Secondarie](Gameplay/Funzionalità%20Secondarie.md)
 
 
-
+# [Bibbia del Game Dev](DevGuide/Bibbia%del%Game%Dev.md)
+Prima di iniziare a lavorare a Silicon Valley le 10 Regole del Bravo Game Dev.
 
 
 
