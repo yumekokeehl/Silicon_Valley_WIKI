@@ -1,4 +1,4 @@
-- [Main Node](Scene%20Tree.md#Main%20Node)
+- [Main Node](Scene%20Tree.md#main-node)
 	- [[#HUD]]
 		- [[#Debug Menu]]
 		- [[#Pause Menu]]
