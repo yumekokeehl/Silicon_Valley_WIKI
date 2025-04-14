@@ -1,11 +1,11 @@
 - [Main Node](Scene%20Tree.md#main-node)
-	- [[#HUD]]
-		- [[#Debug Menu]]
-		- [[#Pause Menu]]
-		- [[#UI]] (Crossair etc...)
-	- [[#Loaded Level]]
-		- [[#Level]]
-		- [[#Player]]
+	- [HUD](Scene%20Tree.md#hud)
+		- [Debug Menu](Scene%20Tree.md#debug-menu)
+		- [Pause Menu](Scene%20Tree.md#pause-menu)
+		- [UI](Scene%20Tree.md#ui)(Crossair etc...)
+	- [Loaded Level](Scene%20Tree.md#load-level)
+		- [Level](Scene%20Tree.md#level)
+		- [Player](Scene%20Tree.md#player)
 
 ## Main node
 - carica e scarica sene on [[#Loaded level]]
