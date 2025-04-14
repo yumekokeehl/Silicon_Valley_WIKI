@@ -1,23 +1,23 @@
 # Graph
-res:/
-	[[#Addons]] (READ ONLY)
-	[[#Assets]]
-		Audio
-		Models
-			Texture
-			Model
-		Animations
-		Environments
-		Shaders
-		Temi
-		Media
-			Videos
-			Images
-			Icons
-	[[#Scenes]]
-	[[#Scripts]]
-		[[#Autoload]]
-		Custom classes
+- res:/
+	- [Addons](File%20System.md#addons) (READ ONLY)
+	- [Assets](File%20System.md#assets)
+		- Audio
+		- Models
+			- Texture
+			- Model
+		- Animations
+		- Environments
+		- Shaders
+		- Temi
+		- Media
+			- Videos
+			- Images
+			- Icons
+	- [Scenes](File%20System.md#scenes)
+	- [Scripts](File%20System.md#scripts)
+		- [Autoload](File%20System.md#autoload)
+		- Custom classes
 
 
 # Addons
