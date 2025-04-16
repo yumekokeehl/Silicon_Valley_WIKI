@@ -39,6 +39,22 @@ Tim:
 
 4)Non me ne frega un cazzo!! Riparami sta macchiana e basta (Manda direttamente alla boss fight)
 
+(passa ad un'altra conversazione se rispondi 4)(?)
+
+(Ignazio: Cosa hai detto?)
+
+(Tim:
+1] Lo ripete
+2] no,no nulla)
+
+(parte lo stesso la boss fight ma se gli rispondi 1] la boss fight e' piu' difficili)
+
+
+
+
+
+
+
 Ignazio:
 
 passando oltre, ora non ti posso riparare la macchina,mi serve la cassetta degli attrezzi che si trova nella vecchia officina (minigioco 2d)
