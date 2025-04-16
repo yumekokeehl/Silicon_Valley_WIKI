@@ -47,7 +47,7 @@ Tim:
 1] Lo ripete
 2] no,no nulla)
 
-(parte lo stesso la boss fight ma se gli rispondi 1] la boss fight e' piu' difficili)
+(parte lo stesso la boss fight ma se gli rispondi 1] la boss fight e' piu' difficili)(?)
 
 
 
