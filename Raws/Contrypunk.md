@@ -1,0 +1,1 @@
+Stile artistico misto tra lo steampunk e il country.
