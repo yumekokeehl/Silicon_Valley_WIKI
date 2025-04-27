@@ -3,23 +3,42 @@
 
 > *Stare con gay ogni giorno a me usurpa.*
 
-ZONA: [Zona Rottamazione](../Zone/Zona%20Rottamazione.md)
-
-- Creato da [Scienziato](../Boss/Scienziato.md)
-- Permette di effettuare upgrade dell'arma principale ([Potenziamenti](../../Gameplay/Potenziamenti.md))
 
 
 Cratteristiche fisiche e del personaggio:
 
-https://www.youtube.com/watch?v=ycy14L4O0eM
+ZONA: [Zona Rottamazione](../Zone/Zona%20Rottamazione.md)
 
-Caratteristiche caratteriali
+Segue Tim nella sua avventura
+
+Robot usurpato/mezzo rotto
+
+Permette di effettuare upgrade dell'arma principale ([Potenziamenti](../../Gameplay/Potenziamenti.md))
+
+https://www.youtube.com/watch?v=ycy14L4O0eM (aspetto)
+
+
+
+Caratteristiche caratteriali:
+
+Gentile, timido, spaventato (dai gay)
+
 
 
 Motivazioni e desideri:
 
+Si sente abbandonato dal suo creatore e decide di seguire Tim per aiutare a sconfiggere lo scenziato 
+
+Desidera aiutare il giocatore 
+
+
 
 Relazioni:
+
+Creato da [Scienziato](../Boss/Scienziato.md)
+
+Amico/aiutante di Tim
+
 
 
 
