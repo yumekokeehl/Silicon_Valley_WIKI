@@ -14,7 +14,7 @@ Uomo senza prospettive nella vita
 
 all'inizio della storia e' goffo e imbranato 
 
-https://media.discordapp.net/attachments/1366131808411979798/1366169156671770777/tim_moodboard.png?ex=680ff7ad&is=680ea62d&hm=f9ace4d774b07d6929431e0dbf42cf802bbeea2354301fdd5ba15c85be36f9e9&=&format=webp&quality=lossless&width=711&height=1006
+
 
 
 Caratteristiche caratteriali:
