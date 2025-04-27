@@ -6,53 +6,53 @@ PROTAGONISTA
 - sposato con [Graziella](NPC/Graziella.md)
 - vive a [Zona Principale](Zone/Zona%20Principale.md)
 
-Caratteristiche fisiche e generali:
+---Caratteristiche fisiche e generali:
 
-Lavora alla Bordercolli inc. come impiegato
+-Lavora alla Bordercolli inc. come impiegato
 
-Uomo senza prospettive nella vita
+-Uomo senza prospettive nella vita
 
-all'inizio della storia e' goffo e imbranato 
-
-
-
-Caratteristiche caratteriali:
-
-Persona tonta/ingenuo
-
-Stanco della vita/smotivato
-
-Spaventato/stordito dalla situazione
+-all'inizio della storia e' goffo e imbranato 
 
 
 
-Evoluzione del personaggio:
+---Caratteristiche caratteriali:
 
-Nel corso della storia diventa piu' scaltro/esperto/furbo
+-Persona tonta/ingenuo
 
-Nel corso della storia impara ad essere piu' agile
+-Stanco della vita/smotivato
 
-
-
-Motivazioni e desideri:
-
-Vuole trovare un modo per portare a casa il sacco di patate per sua moglie
-
-Motivazione che acquista nel corso della storia:
-
-Distruggere la Bordercolli Inc. per cio' che ha causato ovvero per aver fatto impazzire le persone della citta'
-
-Trovare l'unica macchina funzionante
+-Spaventato/stordito dalla situazione
 
 
 
-Relazioni:
+---Evoluzione del personaggio:
 
-Marito di Graziella
+-Nel corso della storia diventa piu' scaltro/esperto/furbo
 
-Amico di Ignazio (meccanico)
+-Nel corso della storia impara ad essere piu' agile
 
-Lavora per lo Scienziato 
+
+
+---Motivazioni e desideri:
+
+-Vuole trovare un modo per portare a casa il sacco di patate per sua moglie
+
+-Motivazione che acquista nel corso della storia:
+
+-Distruggere la Bordercolli Inc. per cio' che ha causato ovvero per aver fatto impazzire le persone della citta'
+
+-Trovare l'unica macchina funzionante
+
+
+
+---Relazioni:
+
+-Marito di Graziella
+
+-Amico di Ignazio (meccanico)
+
+-Lavora per lo Scienziato 
 
 
 ![tim_moodboard](https://github.com/user-attachments/assets/59a7d964-d928-4f9b-94e6-23197ebae211)
