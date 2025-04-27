@@ -11,44 +11,45 @@ ma lui sarà sempre molto vago.
 
 
 
-Caratteristiche fisiche e del personaggio:
+---Caratteristiche fisiche e del personaggio:
 
-Classico kebabbaro del quartiere
+-Unto (soprattutto sui capelli)
 
-Permette di salvare e di avere piu' vita (ricetta speciale di Habibi) [ti fa chiudere gli occhi e pronuncia parole in una lingua sconosciuta che ti aumentano magicamente la vita] {da decidere}
+-Classico kebabbaro del quartiere
 
-Pui anche compare le cure (i kebab)
+-Permette di salvare e di avere piu' vita (ricetta speciale di Habibi) [ti fa chiudere gli occhi e pronuncia parole in una lingua sconosciuta che ti aumentano magicamente la vita] {da decidere}
 
-![download](https://github.com/user-attachments/assets/93e13505-9e88-43ba-9b4b-b8dae38c4763)
+-Pui anche compare le cure (i kebab)
 
 
 
-Caratteristiche del furgone:
+---Caratteristiche del furgone:
 
 ![basingstoke-regno-unito-3-luglio-2021-furgone-appartenente-alla-compagnia-di-ristorazione-mr-kebab-in-attesa-di-clienti-affamati-in-un-parcheggio-nel-centro-di-basingstoke-hampsh-2h7763a](https://github.com/user-attachments/assets/f92df1c4-69c2-413c-824d-87783a8882b4)
 
 
 
-Caratteristiche caratteriali:
+---Caratteristiche caratteriali:
 
-Simpatico e amichevole ma quando tiri fuori l'argomento del perche' lui ha una furgone che funziona ti chiude in faccia la "finestra" del furgone 
+-Simpatico e amichevole ma quando tiri fuori l'argomento del perche' lui ha una furgone che funziona ti chiude in faccia la -"finestra" del furgone 
 
-Misterioso
-
-
-
-Motivazioni e Desideri:
-
-Farti mangiare un buon kebab non surgelato
+-Misterioso
 
 
 
-Relazioni:
+---Motivazioni e Desideri:
 
-amico di tutti 
+-Farti mangiare un buon kebab non surgelato
 
-ha una moglie che lo aspetta a casa e una quantita' indefinita di figli
 
+
+---Relazioni:
+
+-amico di tutti 
+
+-ha una moglie che lo aspetta a casa e una quantita' indefinita di figli
+
+![habibi_moodboard](https://github.com/user-attachments/assets/3c7f88fb-8d60-4bba-b204-d77e8055ffeb)
 
 
 
