@@ -14,8 +14,6 @@ Uomo senza prospettive nella vita
 
 all'inizio della storia e' goffo e imbranato 
 
-![tim_moodboard](https://github.com/user-attachments/assets/59a7d964-d928-4f9b-94e6-23197ebae211)
-
 
 
 Caratteristiche caratteriali:
@@ -55,6 +53,9 @@ Marito di Graziella
 Amico di Ignazio (meccanico)
 
 Lavora per lo Scienziato 
+
+
+![tim_moodboard](https://github.com/user-attachments/assets/59a7d964-d928-4f9b-94e6-23197ebae211)
 
 
 
