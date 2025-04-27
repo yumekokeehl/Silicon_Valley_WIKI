@@ -5,39 +5,39 @@
 
 
 
-Cratteristiche fisiche e del personaggio:
+---Caratteristiche fisiche e del personaggio:
 
-ZONA: [Zona Rottamazione](../Zone/Zona%20Rottamazione.md)
+-ZONA: [Zona Rottamazione](../Zone/Zona%20Rottamazione.md)
 
-Segue Tim nella sua avventura
+-Segue Tim nella sua avventura
 
-Robot usurpato/mezzo rotto
+-Robot usurpato/mezzo rotto
 
-Permette di effettuare upgrade dell'arma principale ([Potenziamenti](../../Gameplay/Potenziamenti.md))
+-Permette di effettuare upgrade dell'arma principale ([Potenziamenti](../../Gameplay/Potenziamenti.md))
 
-https://www.youtube.com/watch?v=ycy14L4O0eM (aspetto)
-
-
-
-Caratteristiche caratteriali:
-
-Gentile, timido, spaventato (dai gay)
+--https://www.youtube.com/watch?v=ycy14L4O0eM (aspetto)
 
 
 
-Motivazioni e desideri:
+---Caratteristiche caratteriali:
 
-Si sente abbandonato dal suo creatore e decide di seguire Tim per aiutare a sconfiggere lo scenziato 
-
-Desidera aiutare il giocatore 
+-Gentile, timido, spaventato (dai gay)
 
 
 
-Relazioni:
+---Motivazioni e desideri:
 
-Creato da [Scienziato](../Boss/Scienziato.md)
+-Si sente abbandonato dal suo creatore e decide di seguire Tim per aiutare a sconfiggere lo scenziato 
 
-Amico/aiutante di Tim
+-Desidera aiutare il giocatore 
+
+
+
+---Relazioni:
+
+-Creato da [Scienziato](../Boss/Scienziato.md)
+
+-Amico/aiutante di Tim
 
 
 
