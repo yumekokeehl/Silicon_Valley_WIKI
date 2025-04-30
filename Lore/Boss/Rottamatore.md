@@ -35,9 +35,9 @@ idee
 
 ---Motivazioni e Desideri:
 
-Vuole punire Tim, perche' lui pensa che le macchine non si devono riparare ma bensi' rottamare e comparne una nuova
+(Vuole punire Tim, perche' lui pensa che le macchine non si devono riparare ma bensi' rottamare e comparne una nuova)
 
-
+(Ha una macchina preferita che non vuole sapere se e' rotta o meno, scatena la sua ira se il giocatore la prova ad accendere)
 
 
 
@@ -50,6 +50,7 @@ alleato dello scenziato e venditore di materiali per la bomba EMP (granata ad im
 
 --Per fare la pacifist
 
+(Ha una macchina preferita che non vuole sapere se e' rotta o meno, scatena la sua ira se il giocatore la prova ad accendere)
 
 
 
