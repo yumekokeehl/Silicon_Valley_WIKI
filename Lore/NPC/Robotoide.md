@@ -39,6 +39,7 @@
 
 -Amico/aiutante di Tim
 
+![robotoide](https://github.com/user-attachments/assets/326830db-d40b-4d0c-88ec-f89af225dca0)
 
 
 
