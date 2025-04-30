@@ -21,22 +21,37 @@ idee
 
 - Rottama le macchine
 
+- Ha un labirinto nel livello per raggiungerlo
+
+- Ex tenente
+
 
 
 ---Caratteristiche caratteriali:
 
--Pignolo, arrogante, severo, scorbutico, dedito al lavoro
-
--
-
+-Pignolo, arrogante, severo, scorbutico, dedito al lavoro, punitivo, vanitoso
 
 
 
 ---Motivazioni e Desideri:
 
+Vuole punire Tim, perche' lui pensa che le macchine non si devono riparare ma bensi' rottamare e comparne una nuova
+
+
+
 
 
 ---Relazioni:
+
+alleato dello scenziato e venditore di materiali per la bomba EMP (granata ad impulsi elttromagnetici)
+
+
+
+
+--Per fare la pacifist
+
+
+
 
 
 
