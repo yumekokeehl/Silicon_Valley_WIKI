@@ -19,10 +19,16 @@ idee
 -sta sempre in una strana posa
 -ha una cartone di un pacco amazon in testa
 
+- Rottama le macchine
 
 
 
 ---Caratteristiche caratteriali:
+
+-Pignolo, arrogante, severo, scorbutico, dedito al lavoro
+
+-
+
 
 
 
