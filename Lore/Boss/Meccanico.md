@@ -14,6 +14,9 @@ Zona:  [Zona Industriale](../Zone/Zona%20Industriale.md)
 
 -Semplice meccanico sulla 60ina peloso, sporco di olio di motore
 
+![ignazio_chiua](https://github.com/user-attachments/assets/4b42951f-1ae8-4fb5-98d3-aa3c70bd91d2)
+
+
 
 
 ---Caratteristiche caratteriali:
