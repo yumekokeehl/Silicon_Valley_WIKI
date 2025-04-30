@@ -8,8 +8,44 @@ cognome: Ciua'
 Zona:  [Zona Industriale](../Zone/Zona%20Industriale.md)
 
 
+Sintesi del personaggio di Ignazio
 
-mecchanico di fiducia di Tim, lo chiama per farsi riparare la macchena che non funiziona piu'
+Caratteristiche fisiche e generali:
+
+Semplice meccanico sulla 60ina peloso, sporco di olio di motore
+
+
+
+Caratteristiche caratteriali:
+
+Prima di impazzire era una persona chiusa mentalmente ma gentile
+
+Deluso da suo figlio
+
+
+
+Motivazioni e Desideri:
+
+Odio verso suo figlio a causa delle sue scelte di vita, questo ha allontanato il figlio il quale si e' vendicato condannandolo a riparare macchine all'infinito con la speranza di trovare l'unica che funziona.
+
+Questo ha portato ignazio ad impazzire e a desiderare piu' di ogni altra cosa di trovare la macchina
+
+
+
+Relazioni:
+
+Amico di Tim
+
+Padre dello scienziato Bordercolli
+
+
+
+
+
+
+
+
+Meccanico di fiducia di Tim, lo chiama per farsi riparare la macchena che non funiziona piu'
 
 Tim prova a chiamarlo ma non risponde
 
@@ -127,8 +163,33 @@ scienziato distruggera' le macchine per dare lavoro infinito al padre ma anche n
 
 
 
+Caratteristiche fisiche e generali:
+
+Semplice meccanico sulla 60ina peloso, sporco di olio di motore
 
 
+
+Caratteristiche caratteriali:
+
+Prima di impazzire era una persona chiusa mentalmente ma gentile
+
+Deluso da suo figlio
+
+
+
+Motivazioni e Desideri:
+
+Odio verso suo figlio a causa delle sue scelte di vita, questo ha allontanato il figlio il quale si e' vendicato condannandolo a riparare macchine all'infinito con la speranza di trovare l'unica che funziona.
+
+Questo ha portato ignazio ad impazzire e a desiderare piu' di ogni altra cosa di trovare la macchina
+
+
+
+Relazioni:
+
+Amico di Tim
+
+Padre dello scienziato Bordercolli
 
 
 
