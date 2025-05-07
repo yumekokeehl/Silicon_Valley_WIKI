@@ -1,7 +1,45 @@
-# Graziella
+# Graziella
 
-ZONA: [Zona Principale](../Zone/Zona%20Principale.md)
 
-- Moglie di [Tim](../Tim.md)
-- Scrive messaggi al telefono a [Tim](../Tim.md) dopo ogni boss fight
-- Diventa il [quarto boss](../Boss/Graziella%20di%20Silicio.md)
+
+
+
+---Caratteristiche fisiche e generali:
+
+-Scrive messaggi al telefono a Tim
+
+-Casalinga americana
+
+-Dventa poi boss 
+
+
+
+---Caratteristiche caratteriali:
+
+-Nervosa, in astinenza dal silicio
+
+-durante la storia si arrabbia sempre di piu' con Tim perche' ci sta impiegando troppo tempo a portare le patate
+
+
+
+---Motivazioni e Desideri:
+
+-Vuole le patate perche' ne e' dipendente
+
+
+
+---Relazioni:
+
+-Moglie di Tim
+
+
+
+
+idea
+
+(per farla in pacifiest devi parriare 10 suoi attacchi, e se ne va a dormire)
+
+(per farla in pacifiest ci sono due pacchi di patate nella zona del fattore quelle che vuole Grazziella sono piu difficili da trovare, mentra l'altra la trovi molto facilmente dopo averlo sconfitto)
+
+
+
