@@ -1,14 +1,12 @@
-# Meccanico 
+# Meccanico
 
 nome: Ignazio
 
 cognome: Ciua'
 
-
 Zona:  [Zona Industriale](../Zone/Zona%20Industriale.md)
 
-
-----Sintesi del personaggio di Ignazio
+**Sintesi del personaggio di Ignazio**
 
 ---Caratteristiche fisiche e generali:
 
@@ -16,17 +14,11 @@ Zona:  [Zona Industriale](../Zone/Zona%20Industriale.md)
 
 ![ignazio_chiua_](https://github.com/user-attachments/assets/f571d18c-30ec-4da0-9db6-63417b4dc62c)
 
-
-
-
-
 ---Caratteristiche caratteriali:
 
 -Prima di impazzire era una persona chiusa mentalmente ma gentile
 
 -Deluso da suo figlio
-
-
 
 ---Motivazioni e Desideri:
 
@@ -34,30 +26,19 @@ Zona:  [Zona Industriale](../Zone/Zona%20Industriale.md)
 
 -Questo ha portato ignazio ad impazzire e a desiderare piu' di ogni altra cosa di trovare la macchina
 
-
-
 ---Relazioni:
 
 -Amico di Tim
 
 -Padre dello scienziato Bordercolli
 
-
-
-
-
-
-
-
 Meccanico di fiducia di Tim, lo chiama per farsi riparare la macchena che non funiziona piu'
 
 Tim prova a chiamarlo ma non risponde
 
+Dialogo tra Tim e Ignazio in officina
 
-Dialogo tra Tim e Ignazio in officina 
-
-
-Tim: 
+Tim:
 
 1)Ciao Ignazone, non mi funziona la macchina riusciresti a darle un'occhiata?
 
@@ -65,7 +46,7 @@ Tim:
 
 3)Sto avendo una giornata di merda, prima mia moglie s'incazza poi mi si rompe la macchina non e' che mi aiuteresti?
 
-Ignazio: 
+Ignazio:
 
 Ciao Tim, hai visto cosa  sta succedendo in giro, roba da matti hahahaha
 
@@ -89,12 +70,6 @@ Tim:
 
 (parte lo stesso la boss fight ma se gli rispondi 1] la boss fight e' piu' difficili)(?)
 
-
-
-
-
-
-
 Ignazio:
 
 passando oltre, ora non ti posso riparare la macchina,mi serve la cassetta degli attrezzi che si trova nella vecchia officina (minigioco 2d)
@@ -109,29 +84,27 @@ Tim:
 
 Tim porta la cassetta Ignazio
 
-Ignazio 
+Ignazio
 
 ora trovami la chiave 13
 
 idea minigioco 1:  ci sono 3 chiavi tra cui dovrai scegliere con un tempo limite che diminuisce sempre di piu' (n livelli) (difficile)
 
-
 se sbagli parte boss fight
 
-con frase annessa 
+con frase annessa
 
 Ignazio
 
-Quella macchina sara' mia hahahaha 
+Quella macchina sara' mia hahahaha
 
 Sconfitto Ignazio scopri il suo diario dove spiega la situazione e dove impoarerai a connettere i cavi
-
 
 se vinci il minigioco
 
 Ignazio:
 
-Avrei voluto un figlio come te, uno che conosce i tipi di chiavi (risata malinconica) 
+Avrei voluto un figlio come te, uno che conosce i tipi di chiavi (risata malinconica)
 
 Non ti ho detto tutta la verita'
 
@@ -145,7 +118,7 @@ Nessuna macchina si puo' aggiustare, tranne una.
 
 inizialmente volevo prenderti la macchina raggirandoti
 
-ma non meriti questo 
+ma non meriti questo
 
 e ora porta le patate a tua moglie
 
@@ -153,25 +126,13 @@ e ora porta le patate a tua moglie
 
 questo potrebbe servirti (ti da istruzioni per collegare i cavi)
 
-
-
-
-
-
-
-
-Meccanico padre dello scienziato 
+Meccanico padre dello scienziato
 
 scienziato distruggera' le macchine per dare lavoro infinito al padre ma anche non dargli nessuna soddisfazione perche le macchine non le puo riparare
-
-
-
 
 Caratteristiche fisiche e generali:
 
 Semplice meccanico sulla 60ina peloso, sporco di olio di motore
-
-
 
 Caratteristiche caratteriali:
 
@@ -179,26 +140,14 @@ Prima di impazzire era una persona chiusa mentalmente ma gentile
 
 Deluso da suo figlio
 
-
-
 Motivazioni e Desideri:
 
 Odio verso suo figlio a causa delle sue scelte di vita, questo ha allontanato il figlio il quale si e' vendicato condannandolo a riparare macchine all'infinito con la speranza di trovare l'unica che funziona.
 
 Questo ha portato ignazio ad impazzire e a desiderare piu' di ogni altra cosa di trovare la macchina
 
-
-
 Relazioni:
 
 Amico di Tim
 
 Padre dello scienziato Bordercolli
-
-
-
-
-
-
-
-
